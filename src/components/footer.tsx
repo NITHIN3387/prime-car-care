@@ -9,7 +9,7 @@ export default function Footer(): JSX.Element {
         <h1 className="lg:text-3xl text-2xl font-semibold">PRIME CAR CARE</h1>
         <div className="font-sans">
           <p>NH-66, Ankadakatte</p>
-          <p>Opp to Surgeion's Hospital</p>
+          <p>Opp to Surgeion&apos;s Hospital</p>
           <p>Koteshwara, Kundapura - 576201</p>
         </div>
         <div className="flex gap-2">
